@@ -30,3 +30,17 @@ Hope it helps!
 * S14 - Kash - http://www.withkash.com/blog/2015/08/27/applying-to-yc-part-2/
 * S15 - Mimir - https://prahasith.com/our-successful-ycombinator-s15-application-843c3047cadd#.net98fhyi
 * S15 - Xendit - http://blog.xendit.co/2015/10/06/xendits-successful-application-to-ycombinator-s15/
+
+# Interviews
+* W10 - Optimizely - https://www.youtube.com/watch?v=r0eySnNHNzk
+* S10 - PagerDuty - https://www.youtube.com/watch?v=7nAYD5Ug23s
+* S10 - AeroFS - https://www.youtube.com/watch?v=QfnbhqHef_k
+* W11 - Lanyrd - https://vimeo.com/74704892
+* W12 - The Muse - https://vimeo.com/90326403
+* W13 - Zenefits - https://youtu.be/-S83fysRwn4
+* W13 - Teespring - https://youtu.be/Ipf247AmhiI
+* W13 - LolliPuff - https://www.youtube.com/watch?v=yO8ctjbiIzM
+* S14 - Aptible - https://www.youtube.com/watch?v=3CU9lizkbCs
+* W15 - Campus Job (WayUp) - https://youtu.be/4nxrkPtR348
+* W15 - Flip - https://youtu.be/N5cBGeRMxms
+
