@@ -31,7 +31,7 @@ Hope it helps!
 * S15 - Mimir - https://prahasith.com/our-successful-ycombinator-s15-application-843c3047cadd#.net98fhyi
 * S15 - Xendit - http://blog.xendit.co/2015/10/06/xendits-successful-application-to-ycombinator-s15/
 
-# Interviews
+# Videos
 * W10 - Optimizely - https://www.youtube.com/watch?v=r0eySnNHNzk
 * S10 - PagerDuty - https://www.youtube.com/watch?v=7nAYD5Ug23s
 * S10 - AeroFS - https://www.youtube.com/watch?v=QfnbhqHef_k
