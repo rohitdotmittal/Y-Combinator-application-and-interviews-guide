@@ -15,3 +15,18 @@ This repository will be constantly updated with new information.
 
 Hope it helps!
 
+# Application
+* W05 - Reddit - http://alexisohanian.com/our-y-combinator-summer-05-application-what-w
+* S07 - Dropbox - https://dl.dropboxusercontent.com/u/27532820/app.html
+* W10 - Scribd - https://www.scribd.com/doc/111078156/Yc-Application
+* W10 - Makegameswithus - https://s3.amazonaws.com/mgwu/YC+GM.pdf
+* S10 - Taazr - http://ethanfast.com/2011/10/deconstructing-a-successful-yc-application/
+* W12 - The Muse - https://www.themuse.com/advice/the-muses-successful-application-to-y-combinator-w12
+* W12 - Familyleaf - https://dl.dropboxusercontent.com/u/19699329/FamilyLeaf_YC_application.pdf
+* W13 - Lollipuff - https://www.lollipuff.com/blog/102/lollipuffs-ycombinator-experience
+* S13 - Apptimize - http://www.nancyhua.com/2014/10/08/successful-y-combinator-s13-application/
+* S13 - One Month - http://pastebin.com/0SMrXX6M
+* S13 - Standard Treasury - http://blog.zactownsend.com/our-yc-s13-application
+* S14 - Kash - http://www.withkash.com/blog/2015/08/27/applying-to-yc-part-2/
+* S15 - Mimir - https://prahasith.com/our-successful-ycombinator-s15-application-843c3047cadd#.net98fhyi
+* S15 - Xendit - http://blog.xendit.co/2015/10/06/xendits-successful-application-to-ycombinator-s15/
