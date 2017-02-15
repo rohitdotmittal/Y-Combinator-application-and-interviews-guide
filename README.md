@@ -44,3 +44,25 @@ Hope it helps!
 * W15 - Campus Job (WayUp) - https://youtu.be/4nxrkPtR348
 * W15 - Flip - https://youtu.be/N5cBGeRMxms
 
+# Advice - Interviews
+* 2006 - http://old.ycombinator.com/howtoprepare.html
+* 2016 - https://hackernoon.com/how-to-ace-your-yc-interview-5c078aea7908#.3dadnb1v5
+* 2015 - https://medium.com/@tmzier/how-to-prepare-for-the-y-combinator-interview-fd7fb7eaa82c#.9nnbwy40n 
+* 2012 - https://techcrunch.com/2012/04/27/be-concise-the-top-questions-asked-at-a-y-combinator-interview/
+* 2015 - http://henrikzillmer.com/dos-and-donts-at-the-y-combinator-interview
+* 2013 - http://blog.perfectaudience.com/2013/04/26/want-to-ace-your-ycombinator-interview-be-relentlessly-empathetic/
+* 2009 - https://www.renthop.com/yc.html
+* 2013 - http://www.daniellemorrill.com/2013/04/thoughts-on-yc-interview-prep/
+* 2012 - https://www.quora.com/What-is-it-like-to-interview-with-Y-Combinator
+* 2014 - http://blog.trak.io/ycombinator-our-interview-experience-after-flying-5351-miles-for-10-minutes/
+* 2008 - http://www.david.blog/blog/y-combinator-interview-advice
+* 2014 - https://www.aptible.com/blog/y-combinator/
+* 2014 - https://dannysu.com/2014/08/10/yc-interview/
+* 2014 - https://www.easypost.com/blog/2014-11-13-how-to-interview-for-y-combinator.html
+* 2016 - https://hackernoon.com/y-combinator-interview-advice-for-international-companies-763811e676d8#.b6fe8mcng
+
+
+# Other Advice
+* http://blog.close.io/hack-your-y-combinator-interview-get-accepted
+* http://www.strikingly.com/blog/how-to-get-into-y-combinator-the-no-bs-approach/
+* http://blog.frontapp.com/2014/10/01/three-months-at-y-combinator-what-its-like-and-how-to-get-in/
