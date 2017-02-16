@@ -15,7 +15,7 @@ This repository will be constantly updated with new information.
 
 Hope it helps!
 
-# Application
+# Sample Applications
 * W05 - Reddit - http://alexisohanian.com/our-y-combinator-summer-05-application-what-w
 * S07 - Dropbox - https://dl.dropboxusercontent.com/u/27532820/app.html
 * W10 - Scribd - https://www.scribd.com/doc/111078156/Yc-Application
@@ -31,7 +31,7 @@ Hope it helps!
 * S15 - Mimir - https://prahasith.com/our-successful-ycombinator-s15-application-843c3047cadd#.net98fhyi
 * S15 - Xendit - http://blog.xendit.co/2015/10/06/xendits-successful-application-to-ycombinator-s15/
 
-# Videos
+# Sample Videos
 * W10 - Optimizely - https://www.youtube.com/watch?v=r0eySnNHNzk
 * S10 - PagerDuty - https://www.youtube.com/watch?v=7nAYD5Ug23s
 * S10 - AeroFS - https://www.youtube.com/watch?v=QfnbhqHef_k
@@ -45,24 +45,32 @@ Hope it helps!
 * W15 - Flip - https://youtu.be/N5cBGeRMxms
 
 # Advice - Interviews
-* 2006 - http://old.ycombinator.com/howtoprepare.html
-* 2016 - https://hackernoon.com/how-to-ace-your-yc-interview-5c078aea7908#.3dadnb1v5
-* 2015 - https://medium.com/@tmzier/how-to-prepare-for-the-y-combinator-interview-fd7fb7eaa82c#.9nnbwy40n 
-* 2012 - https://techcrunch.com/2012/04/27/be-concise-the-top-questions-asked-at-a-y-combinator-interview/
-* 2015 - http://henrikzillmer.com/dos-and-donts-at-the-y-combinator-interview
-* 2013 - http://blog.perfectaudience.com/2013/04/26/want-to-ace-your-ycombinator-interview-be-relentlessly-empathetic/
-* 2009 - https://www.renthop.com/yc.html
-* 2013 - http://www.daniellemorrill.com/2013/04/thoughts-on-yc-interview-prep/
-* 2012 - https://www.quora.com/What-is-it-like-to-interview-with-Y-Combinator
-* 2014 - http://blog.trak.io/ycombinator-our-interview-experience-after-flying-5351-miles-for-10-minutes/
+* Michael Seibel - https://twitter.com/mwseibel/status/660557656927563776
+* by YC - http://old.ycombinator.com/howtoprepare.html
 * 2008 - http://www.david.blog/blog/y-combinator-interview-advice
+* 2009 - https://www.renthop.com/yc.html
+* 2012 - https://www.quora.com/What-is-it-like-to-interview-with-Y-Combinator
+* 2012 - https://techcrunch.com/2012/04/27/be-concise-the-top-questions-asked-at-a-y-combinator-interview/
+* 2013 - http://blog.perfectaudience.com/2013/04/26/want-to-ace-your-ycombinator-interview-be-relentlessly-empathetic/
+* 2013 - http://www.daniellemorrill.com/2013/04/thoughts-on-yc-interview-prep/
+* 2014 - http://blog.trak.io/ycombinator-our-interview-experience-after-flying-5351-miles-for-10-minutes/
 * 2014 - https://www.aptible.com/blog/y-combinator/
 * 2014 - https://dannysu.com/2014/08/10/yc-interview/
 * 2014 - https://www.easypost.com/blog/2014-11-13-how-to-interview-for-y-combinator.html
+* 2015 - http://henrikzillmer.com/dos-and-donts-at-the-y-combinator-interview
+* 2015 - https://medium.com/@tmzier/how-to-prepare-for-the-y-combinator-interview-fd7fb7eaa82c#.9nnbwy40n 
 * 2016 - https://hackernoon.com/y-combinator-interview-advice-for-international-companies-763811e676d8#.b6fe8mcng
+* 2016 - https://hackernoon.com/how-to-ace-your-yc-interview-5c078aea7908#.3dadnb1v5
 
+# Other Application Advice
+* by YC - http://www.ycombinator.com/howtoapply/
+* 2013 - http://blog.close.io/hack-your-y-combinator-interview-get-accepted
+* 2013 - http://glenmoriarty.posthaven.com/609335
+* 2013 - http://blog.zactownsend.com/advice-on-the-yc-application
+* 2013 - https://www.quora.com/What-is-the-best-advice-for-a-startup-applying-to-Y-Combinator
+* 2014 - http://blog.hipmob.com/post/64689083699/advice-for-your-yc-application
+* 2014 - http://blog.frontapp.com/2014/10/01/three-months-at-y-combinator-what-its-like-and-how-to-get-in/
+* 2016 - http://www.strikingly.com/blog/how-to-get-into-y-combinator-the-no-bs-approach/
+* 2016 - https://medium.com/swlh/how-to-get-into-y-combinator-the-no-bs-approach-820cbedbc904#.wym1saoww
+* 2016 - https://medium.com/@adi_agarwalla/https-medium-com-adi-agarwalla-y-combinator-international-4db8072f946d#.f7c3so64c
 
-# Other Advice
-* http://blog.close.io/hack-your-y-combinator-interview-get-accepted
-* http://www.strikingly.com/blog/how-to-get-into-y-combinator-the-no-bs-approach/
-* http://blog.frontapp.com/2014/10/01/three-months-at-y-combinator-what-its-like-and-how-to-get-in/
