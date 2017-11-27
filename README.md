@@ -28,8 +28,10 @@ Hope it helps!
 * S13 - One Month - http://pastebin.com/0SMrXX6M
 * S13 - Standard Treasury - http://blog.zactownsend.com/our-yc-s13-application
 * S14 - Kash - http://www.withkash.com/blog/2015/08/27/applying-to-yc-part-2/
+* W15 - Gitlab - https://about.gitlab.com/2016/09/30/gitlabs-application-for-y-combinator-winter-2015/
 * S15 - Mimir - https://prahasith.com/our-successful-ycombinator-s15-application-843c3047cadd#.net98fhyi
 * S15 - Xendit - http://blog.xendit.co/2015/10/06/xendits-successful-application-to-ycombinator-s15/
+* F1 - Staffjoy - https://blog.staffjoy.com/staffjoys-yc-fellowship-application-5771c8a105cd
 
 # Sample Videos
 * W10 - Optimizely - https://www.youtube.com/watch?v=r0eySnNHNzk
@@ -64,12 +66,18 @@ Hope it helps!
 
 # Other Application Advice
 * by YC - http://www.ycombinator.com/howtoapply/
-* 2013 - http://blog.close.io/hack-your-y-combinator-interview-get-accepted
-* 2013 - http://glenmoriarty.posthaven.com/609335
-* 2013 - http://blog.zactownsend.com/advice-on-the-yc-application
+* 2012 - https://www.quora.com/What-is-the-Y-Combinator-application-process-like
+* 2013 - YC alum - http://blog.close.io/hack-your-y-combinator-interview-get-accepted
+* 2013 - YC alum - http://glenmoriarty.posthaven.com/609335
+* 2013 - YC alum - http://blog.zactownsend.com/advice-on-the-yc-application
 * 2013 - https://www.quora.com/What-is-the-best-advice-for-a-startup-applying-to-Y-Combinator
-* 2014 - http://blog.hipmob.com/post/64689083699/advice-for-your-yc-application
-* 2014 - http://blog.frontapp.com/2014/10/01/three-months-at-y-combinator-what-its-like-and-how-to-get-in/
-* 2016 - http://www.strikingly.com/blog/how-to-get-into-y-combinator-the-no-bs-approach/
-* 2016 - https://medium.com/swlh/how-to-get-into-y-combinator-the-no-bs-approach-820cbedbc904#.wym1saoww
-* 2016 - https://medium.com/@adi_agarwalla/https-medium-com-adi-agarwalla-y-combinator-international-4db8072f946d#.f7c3so64c
+* 2014 - YC alum - http://blog.hipmob.com/post/64689083699/advice-for-your-yc-application
+* 2014 - YC alum - http://blog.frontapp.com/2014/10/01/three-months-at-y-combinator-what-its-like-and-how-to-get-in/
+* 2016 - YC alum - http://www.strikingly.com/blog/how-to-get-into-y-combinator-the-no-bs-approach/
+* 2016 - YC alum - https://medium.com/swlh/how-to-get-into-y-combinator-the-no-bs-approach-820cbedbc904#.wym1saoww
+* 2016 - YC alum - https://medium.com/@adi_agarwalla/https-medium-com-adi-agarwalla-y-combinator-international-4db8072f946d#.f7c3so64c
+* 2017 - https://www.codementor.io/blog/tips-for-successful-y-combinator-application-1bz78dcb2y
+* 2017 - https://www.youtube.com/watch?v=nFpsNSa9Puw&list=PL7p57jRcd2Ow78azm_H0ziPBhIWEAe-bP
+* 2017 - YC alum - https://www.konsus.com/blog/y-combinator/
+* 2017 - YC alum - https://www.effectivealtruism.org/articles/why-nonprofits-should-apply-to-y-combinator/
+
